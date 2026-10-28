@@ -1,0 +1,10 @@
+# PyTorch с CUDA ставится отдельной командой:
+# pip install torch torchvision --index-url https://download.pytorch.org/whl/cu128
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+jupyter
+ipykernel
+kaggle

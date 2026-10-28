@@ -1,0 +1,17 @@
+# окружение
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# данные и артефакты не коммитим: много весят, а правила Kaggle запрещают выкладывать датасеты
+data/
+*.csv
+*.zip
+*.parquet
+models/
+*.pt
+*.pth
+
+# секреты
+kaggle.json
+.env
